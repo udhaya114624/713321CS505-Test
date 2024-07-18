@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header.jumbotron {
+    background-color: #f8f9fa;
+    padding: 4rem 2rem;
+}
+
+footer {
+    background-color: #f8f9fa;
+}
+
+.navbar-nav .nav-link.active {
+    font-weight: bold;
+}
